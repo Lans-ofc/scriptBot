@@ -27,32 +27,34 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/l4c1f2r'
-global.syt = 'https://youtu.be/ALQiRR1nzLI'
-global.sgh = 'https://github.com/Turu-bangun'
-global.sgc = 'https://chat.whatsapp.com/FR1KfE3OTcQCayiabos8Ff'
-global.swa = 'wa.me/6282214729677'
-global.swb = 'https://discord.gg/4HvezMAw'
+global.sig = 'https://instagram.com/lans.xys'
+global.syt = 'https://youtube.com/@LansDev'
+global.sgh = 'https://github.com/Lans-ofc'
+global.sgc = 'https://chat.whatsapp.com/F9St301rfmhE7xOFBKmvG2'
+global.sdc = 'https://wa.me/6283132749084'
+global.swa = 'wa.me/6283132749084'
+global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
+
 /*============== PAYMENT ==============*/
-global.pdana = '-'
+global.pdana = '6283132749084'
 global.povo = '-'
-global.pgopay = '-'
+global.pgopay = '6283820901508'
 global.ppulsa = '-'
 global.ppulsa2 = '-'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283863727413'
-global.nomorown = '6282214729677'
-global.namebot = 'NexBotz'
-global.nameown = 'PutraModz'
+global.nomorbot = '6283820901508'
+global.nomorown = '6283132749084'
+global.namebot = 'KingBot'
+global.nameown = 'LanssModz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282214729677', 'PutraModz', 'true']
+  ['6283132749084', 'LansModz', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,35 +104,37 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By NexBotz' //Main Watermark
-global.wm2 = 'PutraKeche'
-global.wm3 = 'NexBotz | By PutraModz'
+global.wm = 'By KingBot' //Main Watermark
+global.wm2 = 'Lansmodz'
+global.wm3 = 'KingBot | By ʟᴀɴꜱᴍᴏᴅᴢ'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `NexBotz | ʙʏ ${global.nameown}`
-global.author = 'PutraModz' 
-global.packname = 'PutraKeche'
+global.titlebot = `KingBot | ʙʏ ${global.nameown}`
+global.author = 'Maulana' 
+global.packname = 'LansModz'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Februari 02 2023'
+global.ultahowner = 'Juni 02 2023'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/06c4e93a3d3f388b2642d.jpg'
+global.thumb = 'https://telegra.ph/file/f2d8864b2ee539cce0e8b.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/f2d8864b2ee539cce0e8b.jpg'
 global.giflogo = 'https://ibb.co/3sJ0ybv'
+global.thumbbc = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4' //For broadcast
+global.giflogo = 'https://telegra.ph/file/13c721724dbf6bcc70aff.mp4'
 global.giflogo2 = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.botintro = 'Hallo, Kenalin saya NexBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh PutraModz Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.thumbWarn = 'https://telegra.ph/file/e4cb4958259c82d55a86b.jpg'
+global.botintro = 'Hallo, Kenalin saya Bot Wangsap Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh NexEp Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Putra'
-global.umurowner = '18'
-global.asalowner = 'Jawa Barat, Kuningan'
-global.nomorowner = 'wa.me/6282214729677'
-global.pacarowner = 'Amelia Putri septiany'
+global.nameowner = 'Maulana'
+global.umurowner = '16'
+global.asalowner = 'Jawa Barat, Bekasi'
+global.nomorowner = 'wa.me/62713132749084'
+global.pacarowner = 'gada'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -378,8 +382,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By NexBotz'
-global.stickauth = `Putra`
+global.stickpack = 'By KingsBot'
+global.stickauth = `Maulana`
 
 global.multiplier = 38 // The higher, The harder levelup
 
